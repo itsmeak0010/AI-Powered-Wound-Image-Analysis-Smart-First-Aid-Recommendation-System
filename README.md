@@ -1,0 +1,1 @@
+# AI-Powered-Wound-Image-Analysis-Smart-First-Aid-Recommendation-System
